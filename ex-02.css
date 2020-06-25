@@ -1,0 +1,56 @@
+@font-face{
+    font-family: "police titres";
+    src: url('assetsD03/nasalization-rg.ttf');
+}
+
+body
+{color: darkslategray;
+padding: 0% 10%;
+}
+
+body
+{background-color: aliceblue;
+}
+
+h1{
+    color: #8B0000; background-color: rgba(0, 0, 0, 0.2);
+text-decoration: underline;
+text-align: center;
+font-size: 45px;
+padding: 10px;
+margin: 0;
+}
+
+h2
+{text-align: center;}
+
+h2
+{color: #b22222;}
+
+h2
+{
+    font-size: 25px;
+}
+
+h2
+{text-decoration: underline;}
+
+.page
+{background-color: darkslateblue;}
+
+p
+{
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+p li
+{
+    padding: 5%;
+}
+
+span
+{
+    color: greenyellow;
+}
